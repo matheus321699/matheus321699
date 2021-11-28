@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo ao meu GitHub!
 
-- 🔭 Desenvolvedor Back-end
+- 🔭 Desenvolvedor Back-end Jr
 - 🌱 Estudando Java e Linguagem Go
 
 <div align="center">
