@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo ao meu GitHub!
 
 - 🔭 Desenvolvedor Back-end Jr
-- 🌱 Estudando Java e Linguagem Go
+- 🌱 Estudando Java, Spring Boot e Linguagem Go
 
 <div align="center">
   <a href="https://github.com/matheus321699">
