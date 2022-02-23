@@ -1,4 +1,4 @@
-## Olá, seja bem vindo ao meu GitHub!
+## Olá, seja bem-vindo ao meu GitHub!
 
 - 🔭 Desenvolvedor Back-end Jr
 - 🌱 Estudando Java, Spring Boot e Linguagem Go
