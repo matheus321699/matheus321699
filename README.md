@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo ao meu GitHub!
 
-- 🔭 Desenvolvedor Back-end Jr
-- 🌱 Estudando Java e Spring Boot 
+- 🔭 Desenvolvedor Full Stack | Java | Python | React
+- 🌱 "Nesta vida, somos eternos aprendizes!" David Feffer 
 
 <div align="center">
   <a href="https://github.com/matheus321699">
